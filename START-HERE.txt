@@ -1,0 +1,67 @@
+PAWAN PORTFOLIO — SMALL GITHUB UPLOAD BATCHES
+
+This package includes the latest opening-page changes and all 12 pages.
+There are SEVEN separate Batch folders. Extract the main ZIP once.
+DO NOT upload all seven folders together.
+DO NOT upload a folder named Batch-01 to your repository.
+
+UPLOAD INSTRUCTIONS
+1. Open the extracted Batch-01 folder on your computer.
+2. Select everything INSIDE it (files and folders).
+3. In your GitHub portfolio repository, choose Add file > Upload files.
+4. Drag that selection into GitHub and commit the upload.
+5. Open Batch-02 on your computer and repeat in THE SAME repository.
+6. Continue through Batch-07, committing each batch separately.
+
+Each batch has at most 50 files. Files plus all nested folders are also below
+100 items. Keep the folders in each batch intact; GitHub merges their paths
+with the folders already uploaded. Do not combine batches on your computer
+before uploading. Only upload the contents of ONE batch at a time.
+
+If some earlier batches are already uploaded correctly, you can upload all
+seven new batches over those paths. Matching filenames update those files.
+You do not need to delete your repository or recreate its Pages settings.
+If you accidentally uploaded enclosing Upload-* or Batch-* folders, those
+are not the intended site structure. The site files must be at the root.
+
+AFTER ALL SEVEN BATCHES
+index.html, about.html, play.html and the shared CSS/JS files must appear at
+the repository root beside assets/ and projects/. The Batch folders themselves
+must NOT appear there. Keep GitHub Pages set to main and /(root).
+
+Open the address shown by GitHub Pages after deployment completes. Check Home,
+About, Play and the project links. Images may be missing until ALL batches
+have been uploaded. The same site contains all nine local case-study pages.
+
+CHECKS COMPLETED
+747 local references across 12 pages: assets, navigation, anchors, controls,
+favicons, original-image links, plus CSS and JavaScript checks. Scripted tests
+cover existing galleries/tabs, all 56 migrated board viewers, intro pause,
+entry, skip/replay and bypass on return to #work. All migrated board images
+were validated. There are no old Wix project-page navigation destinations.
+
+REVIEW LIMITS
+These are source and scripted DOM checks, not a rendered browser audit.
+Visually check desktop/mobile, scrolling, and the final host before launch.
+LinkedIn and Medium restrict automated checks; their links are preserved.
+
+REMAINING WIX DEPENDENCIES
+Seven existing PDFs, including the resume and Play publications, still use
+the Wix domain. See WIX-DEPENDENCIES.txt. Preserve/migrate those downloads
+before moving the domain. Their URLs returned HTTP 200 in the prior audit.
+The six former Wix project PAGES have now been migrated into this bundle.
+
+HOSTING NOTE
+This expanded site includes PDFs and video. It is NOT a direct Wix Headless
+Drop upload: that route's documented file types and size limits do not fit
+this bundle. Use GitHub Pages or a suitable full Wix deployment workflow.
+No DNS change or public GitHub/Wix deployment has been performed.
+
+BATCH COUNTS (including the enclosing Batch folder)
+Batch-01: 50 files; 57 total files and folders.
+Batch-02: 50 files; 60 total files and folders.
+Batch-03: 50 files; 57 total files and folders.
+Batch-04: 50 files; 58 total files and folders.
+Batch-05: 50 files; 56 total files and folders.
+Batch-06: 50 files; 55 total files and folders.
+Batch-07: 36 files; 41 total files and folders.
